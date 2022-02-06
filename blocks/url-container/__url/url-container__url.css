@@ -1,4 +1,4 @@
-.place__url-container_url {
+.url-container__url {
   font-weight: 400;
   font-style: normal;
   font-size: 18px;
@@ -10,6 +10,6 @@
   transition: opacity 0.2s;
 }
 
-.place__url-container_url:hover {
+.url-container__url:hover {
   opacity: 50%;
 }
