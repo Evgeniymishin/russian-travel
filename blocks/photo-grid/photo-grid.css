@@ -1,6 +1,3 @@
-@import url(./__image/photo-grid__image.css);
-@import url(./__container/photo-grid__container.css);
-
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));

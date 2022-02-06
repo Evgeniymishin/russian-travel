@@ -1,10 +1,3 @@
-@import url(./__image/place__image.css);
-@import url(./__paragraph/place__paragraph.css);
-@import url(./__title/place__title.css);
-@import url(./__url-container/place__url-container.css);
-@import url(./__url-container/_title/place__url-container_title.css);
-@import url(./__url-container/_url/place__url-container_url.css);
-
 .place {
   display: grid;
   grid-template-columns: 460px 1fr;
